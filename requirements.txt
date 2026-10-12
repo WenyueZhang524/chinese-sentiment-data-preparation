@@ -1,0 +1,4 @@
+chinese-sentiment-data-preparation/
+├── README.md
+├── requirements.txt
+└── prepare_dataset.py
